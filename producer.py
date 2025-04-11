@@ -114,6 +114,6 @@ def generate_orders_and_payments():
 
         time.sleep(5)
 
-# Generate and publish mock data
+
 generate_orders_and_payments()
 print("Mock data successfully published.")
